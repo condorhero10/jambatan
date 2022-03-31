@@ -38,8 +38,20 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA BACKUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/21i3B1RS_4v4o1BAEWprio-KCkRzIaq3NGilCJEXtaQ_0=JQib/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA BACKUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+https://linears-playback.astro.com.my/vsgN/21i3B1RS_4v4o1BAEWprio-KCkRzIaq3NGilCJEXtaQ_0=JQib/dash-wv/jitp-linearwm/2402/default_ott.mpd
+# http://hbogo.skyforever.tk/xtrogo/WARNA/index.mpd
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",ASTRO CITRA
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721 
@@ -50,8 +62,19 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
 #EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",ASTRO OASIS
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
 
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",ASTRO OASIS BACKUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",ASTRO PRIMA
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m08745832375518396442&ct=18379&tsum=e0848436c3a2974eb5aa0d4b75289a3f
+
+
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",ASTRO PRIMA BACKUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9

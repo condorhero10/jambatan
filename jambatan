@@ -139,10 +139,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="KOREA",ARIRANG
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 tvg-id="CHN" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png" ch-number="463",463 Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA",KBS WORLD
@@ -197,6 +195,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
+
+#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png",404 BOO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -406,8 +409,10 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-id="NickJrAsia.us" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="KIDS",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="KIDS",TA-DAA!
-http://iptv12k.com:35461/8022011502/123456/744
+#EXTINF:-1 tvg-id="TA-DAA!" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="SPORT",eGG NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
